@@ -10,6 +10,10 @@ documentclass: scrreprt
 toc: true
 ---
 
+# Martins Test für Github Workflow
+
+Dieser Kommentar triggert Github Actions.
+
 # Beitragsordnung des Vereins „Opennet Initiative e.V.“
 
 Geändert und beschlossen von der Jahresversammlung am 10. Februar 2017
